@@ -1,0 +1,5 @@
+print("Name\tAge\tLocation")
+print("Aisha\t25\tLagos")
+print("B\nBB\nBBB\nBBBB\nBBBBB\nBBBBBB")
+print("B\n\t B\n\t  B\n\t   B\n\t    B\n\t     B")
+print("      0\n     000\n    00000\n   0000000\n  000000000\n 00000000000")
